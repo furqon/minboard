@@ -10,6 +10,9 @@ Minimalist dashboard built with:
 - apexchart
 - lodash
 
+[demo](https://62ed1e00ba5a2261083c38e3--helpful-hamster-358b4c.netlify.app/)
+[backend](https://jumbled-torch-cotija.glitch.me/)
+
 ## Creating a project
 
 ```bash
